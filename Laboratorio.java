@@ -11,7 +11,7 @@ public class Laboratorio
      
    public void incribir(String nombre, int clave)
    {
-       Alumno alumno = new Alumno(nombre, clave);  
+       //Alumno alumno = new Alumno(nombre, clave);  
    } 
     
    public void darDeBaja(int claveDeBaja)
